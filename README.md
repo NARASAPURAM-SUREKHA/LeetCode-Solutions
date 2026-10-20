@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3886-sum-of-sortable-integers](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -13,8 +14,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3886-sum-of-sortable-integers](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Database
 |  |
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
+## Math
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
