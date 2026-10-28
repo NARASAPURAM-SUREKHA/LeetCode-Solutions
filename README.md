@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [1757-recyclable-and-low-fat-products](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Math
