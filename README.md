@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3886-sum-of-sortable-integers](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Database
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [2409-count-days-spent-together](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
