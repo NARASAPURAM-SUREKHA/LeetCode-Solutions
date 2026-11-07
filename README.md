@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
