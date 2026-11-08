@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [2409-count-days-spent-together](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
