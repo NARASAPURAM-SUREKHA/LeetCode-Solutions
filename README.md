@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0349-intersection-of-two-arrays](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -150,8 +151,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
