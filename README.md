@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
