@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
