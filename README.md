@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0349-intersection-of-two-arrays](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
