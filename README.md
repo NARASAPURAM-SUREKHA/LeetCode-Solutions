@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
@@ -201,5 +203,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
