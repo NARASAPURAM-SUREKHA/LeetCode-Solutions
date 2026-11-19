@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Database
 |  |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
