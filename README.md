@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
