@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3886-sum-of-sortable-integers](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Database
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
