@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0051-n-queens) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0242-valid-anagram) |
