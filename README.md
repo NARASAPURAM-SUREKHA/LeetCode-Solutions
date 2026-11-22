@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/0136-single-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/NARASAPURAM-SUREKHA/LeetCode-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
